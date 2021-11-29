@@ -1,0 +1,274 @@
+{
+    "Global Quote": {
+        "01. symbol": "SBUX",
+        "02. open": "110.0100",
+        "03. high": "110.8300",
+        "04. low": "109.2510",
+        "05. price": "110.6600",
+        "06. volume": "6703214",
+        "07. latest trading day": "2021-11-26",
+        "08. previous close": "113.9700",
+        "09. change": "-3.3100",
+        "10. change percent": "-2.9043%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "AAPL",
+        "02. open": "159.5650",
+        "03. high": "160.4500",
+        "04. low": "156.3600",
+        "05. price": "156.8100",
+        "06. volume": "76959752",
+        "07. latest trading day": "2021-11-26",
+        "08. previous close": "161.9400",
+        "09. change": "-5.1300",
+        "10. change percent": "-3.1678%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "TSLA",
+        "02. open": "1099.4700",
+        "03. high": "1108.7827",
+        "04. low": "1081.0000",
+        "05. price": "1081.9200",
+        "06. volume": "11680890",
+        "07. latest trading day": "2021-11-26",
+        "08. previous close": "1116.0000",
+        "09. change": "-34.0800",
+        "10. change percent": "-3.0538%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "GOOG",
+        "02. open": "2900.3100",
+        "03. high": "2905.9404",
+        "04. low": "2849.7100",
+        "05. price": "2856.1200",
+        "06. volume": "849606",
+        "07. latest trading day": "2021-11-26",
+        "08. previous close": "2934.3500",
+        "09. change": "-78.2300",
+        "10. change percent": "-2.6660%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "META",
+        "02. open": "16.1800",
+        "03. high": "16.2700",
+        "04. low": "15.8650",
+        "05. price": "16.0100",
+        "06. volume": "4179966",
+        "07. latest trading day": "2021-11-26",
+        "08. previous close": "16.2800",
+        "09. change": "-0.2700",
+        "10. change percent": "-1.6585%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "AAPL",
+        "02. open": "159.5650",
+        "03. high": "160.4500",
+        "04. low": "156.3600",
+        "05. price": "156.8100",
+        "06. volume": "76959752",
+        "07. latest trading day": "2021-11-26",
+        "08. previous close": "161.9400",
+        "09. change": "-5.1300",
+        "10. change percent": "-3.1678%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "MSFT",
+        "02. open": "334.3500",
+        "03. high": "337.9300",
+        "04. low": "328.1200",
+        "05. price": "329.6800",
+        "06. volume": "24217242",
+        "07. latest trading day": "2021-11-26",
+        "08. previous close": "337.9100",
+        "09. change": "-8.2300",
+        "10. change percent": "-2.4356%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "COKE",
+        "02. open": "584.8800",
+        "03. high": "605.9200",
+        "04. low": "580.5450",
+        "05. price": "597.1000",
+        "06. volume": "30287",
+        "07. latest trading day": "2021-11-26",
+        "08. previous close": "596.0100",
+        "09. change": "1.0900",
+        "10. change percent": "0.1829%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "SBUX",
+        "02. open": "110.0100",
+        "03. high": "110.8300",
+        "04. low": "109.2510",
+        "05. price": "110.6600",
+        "06. volume": "6703214",
+        "07. latest trading day": "2021-11-26",
+        "08. previous close": "113.9700",
+        "09. change": "-3.3100",
+        "10. change percent": "-2.9043%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "GOOG",
+        "02. open": "2900.3100",
+        "03. high": "2905.9404",
+        "04. low": "2849.7100",
+        "05. price": "2856.1200",
+        "06. volume": "849606",
+        "07. latest trading day": "2021-11-26",
+        "08. previous close": "2934.3500",
+        "09. change": "-78.2300",
+        "10. change percent": "-2.6660%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "AAPL",
+        "02. open": "159.5650",
+        "03. high": "160.4500",
+        "04. low": "156.3600",
+        "05. price": "156.8100",
+        "06. volume": "76959752",
+        "07. latest trading day": "2021-11-26",
+        "08. previous close": "161.9400",
+        "09. change": "-5.1300",
+        "10. change percent": "-3.1678%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "GOOD",
+        "02. open": "22.4400",
+        "03. high": "22.4400",
+        "04. low": "21.5500",
+        "05. price": "21.8300",
+        "06. volume": "221799",
+        "07. latest trading day": "2021-11-26",
+        "08. previous close": "22.6700",
+        "09. change": "-0.8400",
+        "10. change percent": "-3.7053%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "GOOG",
+        "02. open": "2900.3100",
+        "03. high": "2905.9404",
+        "04. low": "2849.7100",
+        "05. price": "2856.1200",
+        "06. volume": "849606",
+        "07. latest trading day": "2021-11-26",
+        "08. previous close": "2934.3500",
+        "09. change": "-78.2300",
+        "10. change percent": "-2.6660%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "SBUX",
+        "02. open": "110.0100",
+        "03. high": "110.8300",
+        "04. low": "109.2510",
+        "05. price": "110.6600",
+        "06. volume": "6703214",
+        "07. latest trading day": "2021-11-26",
+        "08. previous close": "113.9700",
+        "09. change": "-3.3100",
+        "10. change percent": "-2.9043%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "MSFT",
+        "02. open": "334.3500",
+        "03. high": "337.9300",
+        "04. low": "328.1200",
+        "05. price": "329.6800",
+        "06. volume": "24217242",
+        "07. latest trading day": "2021-11-26",
+        "08. previous close": "337.9100",
+        "09. change": "-8.2300",
+        "10. change percent": "-2.4356%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "AAPL",
+        "02. open": "159.5650",
+        "03. high": "160.4500",
+        "04. low": "156.3600",
+        "05. price": "156.8100",
+        "06. volume": "76959752",
+        "07. latest trading day": "2021-11-26",
+        "08. previous close": "161.9400",
+        "09. change": "-5.1300",
+        "10. change percent": "-3.1678%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "GOOG",
+        "02. open": "2900.3100",
+        "03. high": "2905.9404",
+        "04. low": "2849.7100",
+        "05. price": "2856.1200",
+        "06. volume": "849606",
+        "07. latest trading day": "2021-11-26",
+        "08. previous close": "2934.3500",
+        "09. change": "-78.2300",
+        "10. change percent": "-2.6660%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "MSFT",
+        "02. open": "334.3500",
+        "03. high": "337.9300",
+        "04. low": "328.1200",
+        "05. price": "329.6800",
+        "06. volume": "24217242",
+        "07. latest trading day": "2021-11-26",
+        "08. previous close": "337.9100",
+        "09. change": "-8.2300",
+        "10. change percent": "-2.4356%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "TSLA",
+        "02. open": "1099.4700",
+        "03. high": "1108.7827",
+        "04. low": "1081.0000",
+        "05. price": "1081.9200",
+        "06. volume": "11680890",
+        "07. latest trading day": "2021-11-26",
+        "08. previous close": "1116.0000",
+        "09. change": "-34.0800",
+        "10. change percent": "-3.0538%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "SBUX",
+        "02. open": "110.0100",
+        "03. high": "110.8300",
+        "04. low": "109.2510",
+        "05. price": "110.6600",
+        "06. volume": "6703214",
+        "07. latest trading day": "2021-11-26",
+        "08. previous close": "113.9700",
+        "09. change": "-3.3100",
+        "10. change percent": "-2.9043%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "COKE",
+        "02. open": "584.8800",
+        "03. high": "605.9200",
+        "04. low": "580.5450",
+        "05. price": "597.1000",
+        "06. volume": "30287",
+        "07. latest trading day": "2021-11-26",
+        "08. previous close": "596.0100",
+        "09. change": "1.0900",
+        "10. change percent": "0.1829%"
+    }
+}

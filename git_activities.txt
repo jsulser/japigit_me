@@ -1,0 +1,443 @@
+Script started on 2021-11-28 21:20:50-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+]0;jsulser@DESKTOP-AKNI37H: ~[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~[00m$ [K]0;jsulser@DESKTOP-AKNI37H: ~[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~[00m$ [K]0;jsulser@DESKTOP-AKNI37H: ~[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~[00m$ [K]0;jsulser@DESKTOP-AKNI37H: ~[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~[00m$ [K]0;jsulser@DESKTOP-AKNI37H: ~[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~[00m$ [K]0;jsulser@DESKTOP-AKNI37H: ~[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~[00m$ [K]0;jsulser@DESKTOP-AKNI37H: ~[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~[00m$ [K]0;jsulser@DESKTOP-AKNI37H: ~[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~[00m$ [K]0;jsulser@DESKTOP-AKNI37H: ~[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~[00m$ [K]0;jsulser@DESKTOP-AKNI37H: ~[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~[00m$ [K]0;jsulser@DESKTOP-AKNI37H: ~[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~[00m$ [K]0;jsulser@DESKTOP-AKNI37H: ~[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~[00m$ [K]0;jsulser@DESKTOP-AKNI37H: ~[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~[00m$ [K]0;jsulser@DESKTOP-AKNI37H: ~[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~[00m$ [K]0;jsulser@DESKTOP-AKNI37H: ~[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~[00m$ [K]0;jsulser@DESKTOP-AKNI37H: ~[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~[00m$ [K]0;jsulser@DESKTOP-AKNI37H: ~[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~[00m$ mkdiur[K[Kr [K[K[K[K[K[Kpwd
+/home/jsulser
+]0;jsulser@DESKTOP-AKNI37H: ~[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~[00m$ ls
+git_activities
+]0;jsulser@DESKTOP-AKNI37H: ~[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~[00m$ mkdir japigit
+]0;jsulser@DESKTOP-AKNI37H: ~[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~[00m$ cd japigit
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git init
+Initialized empty Git repository in /home/jsulser/japigit/.git/
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git config --global user.name "Justin Sulser"
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git config --global user.email jsulser@asu.edu
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ cp /mnt/c/Users/aceco/Docuy[Kments [K/School/21 Fall/ IFT[K[K[K[K[K/IFT 458/ [KWeek 5/japi.py japi.py
+cp: target 'japi.py' is not a directory
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ cp /mnt/c/Users/aceco/Documents/School/21 Fall/IFT 458/Week 5/japi.py japi.py/japi.py[C
+cp: target '/japi.py' is not a directory
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ pwd [K[K[K[Kls /
+[0m[01;36mbin[0m   [01;34mdev[0m  [01;34mhome[0m  [01;36mlib[0m    [01;36mlib64[0m   [01;34mlost+found[0m  [01;34mmnt[0m  [01;34mproc[0m  [01;34mrun[0m   [01;34msnap[0m  [01;34msys[0m  [01;34musr[0m
+[01;34mboot[0m  [01;34metc[0m  [01;32minit[0m  [01;36mlib32[0m  [01;36mlibx32[0m  [01;34mmedia[0m       [01;34mopt[0m  [01;34mroot[0m  [01;36msbin[0m  [01;34msrv[0m   [30;42mtmp[0m  [01;34mvar[0m
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ ls /mnt/
+[0m[34;42mc[0m  [34;42md[0m  [34;42mf[0m  [34;42mg[0m  [30;42mwsl[0m
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ ls /mnt/c
+ls: cannot access '/mnt/c/hiberfil.sys': Permission denied
+ls: cannot access '/mnt/c/pagefile.sys': Permission denied
+ls: cannot access '/mnt/c/swapfile.sys': Permission denied
+[0m[34;42m'$Recycle.Bin'[0m                                  [01;34m'Program Files'[0m               [01;34mUsers[0m         hiberfil.sys
+[34;42m'$SysReset'[0m                                     [01;34m'Program Files (x86)'[0m         [01;34mWindows[0m       [01;32mnsinst.log[0m
+[01;36m'Documents and Settings'[0m                         [34;42mProgramData[0m                  [34;42mWindows.old[0m   pagefile.sys
+ [34;42mESD[0m                                             [34;42mPython27[0m                     [34;42mandroid[0m       swapfile.sys
+ [34;42mGradle[0m                                          [34;42mPython39[0m                     [01;32mbootTel.dat[0m   [34;42mtemp[0m
+ [01;32mNvContainerRecoveryNvContainerLocalSystem.reg[0m   [34;42mRecovery[0m                     [01;32mend[0m           [34;42mxampp[0m
+ [34;42mOneDriveTemp[0m                                    [34;42mSQLServer2017Media[0m           [01;34mfound.000[0m
+ [01;34mPerfLogs[0m                                       [01;34m'System Volume Information'[0m   [01;34mfound.001[0m
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ ls /mnt/c/Users
+[0m[01;36m'All Users'[0m   [01;34mDefault[0m  [01;36m'Default User'[0m   [01;34mMSSQLSERVER[0m   [34;42mPublic[0m   [01;34mSQLTELEMETRY[0m   [34;42maceco[0m   [01;32mdesktop.ini[0m
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ ls /mnt/c/Users/aceco
+[0m[34;42m'3D Objects'[0m
+ [34;42mAppData[0m
+[01;36m'Application Data'[0m
+[34;42m'Cisco Packet Tracer 7.3.0'[0m
+ [34;42mContacts[0m
+ [01;36mCookies[0m
+ [34;42mDesktop[0m
+ [34;42mDocuments[0m
+ [34;42mDownloads[0m
+ [34;42mFavorites[0m
+ [34;42mJustinmind[0m
+ [34;42mLinks[0m
+[01;36m'Local Settings'[0m
+ [34;42mMicrosoftEdgeBackups[0m
+ [34;42mMusic[0m
+[01;36m'My Documents'[0m
+ [01;32mNTUSER.DAT[0m
+ [01;32mNTUSER.DAT{7bd4c57d-36a4-11eb-b3cd-1831bf4ee86c}.TM.blf[0m
+ [01;32mNTUSER.DAT{7bd4c57d-36a4-11eb-b3cd-1831bf4ee86c}.TMContainer00000000000000000001.regtrans-ms[0m
+ [01;32mNTUSER.DAT{7bd4c57d-36a4-11eb-b3cd-1831bf4ee86c}.TMContainer00000000000000000002.regtrans-ms[0m
+ [01;36mNetHood[0m
+[34;42m'OWASP ZAP'[0m
+ [34;42mOneDrive[0m
+ [34;42mPictures[0m
+ [01;36mPrintHood[0m
+ [01;36mRecent[0m
+[34;42m'Saved Games'[0m
+ [34;42mSearches[0m
+ [01;36mSendTo[0m
+[01;36m'Start Menu'[0m
+ [01;32mSti_Trace.log[0m
+ [01;36mTemplates[0m
+ [34;42mVideos[0m
+[34;42m'VirtualBox VMs'[0m
+ [34;42mansel[0m
+ [34;42mdwhelper[0m
+ [34;42meclipse[0m
+ [01;32mjagex_cl_oldschool_LIVE.dat[0m
+ [01;32mjagexappletviewer.preferences[0m
+ [34;42mjagexcache[0m
+ [34;42mmagicsim-2.0.1.2[0m
+ [01;32mntuser.dat.LOG1[0m
+ [01;32mntuser.dat.LOG2[0m
+ [01;32mntuser.ini[0m
+ [01;32mrandom.dat[0m
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ ls /mnt/c/Users/aceco/Documents
+[0m[34;42m'Anno 1800'[0m                                [34;42m'Heroes of the Storm'[0m                        [34;42mSEGA[0m
+[34;42m"Assassin's Creed III"[0m                     [34;42m'Important Docs'[0m                            [34;42m'SQL Server Management Studio'[0m
+[34;42m"Assassin's Creed III Remaster"[0m            [34;42m'KakaoTalk Downloads'[0m                       [34;42m'SQUARE ENIX'[0m
+[34;42m"Assassin's Creed Revelations"[0m              [34;42mKlei[0m                                       [34;42m'STAR WARS Battlefront'[0m
+[34;42m'Battlefield V'[0m                            [34;42m'Larian Studios'[0m                            [34;42m'STAR WARS Battlefront II'[0m
+ [34;42mBioWare[0m                                   [34;42m'League of Legends'[0m                         [34;42m'Saved Games'[0m
+ [34;42mBioshockHD[0m                                 [34;42mMEGAsync[0m                                    [34;42mSchool[0m
+[34;42m'Black Desert'[0m                             [34;42m'Mass Effect Andromeda OST'[0m                  [34;42mShiner[0m
+[34;42m'Call of Duty Modern Warfare'[0m               [34;42mMuseScore3[0m                                 [34;42m'Sound recordings'[0m
+[34;42m'Custom Office Templates'[0m                  [34;42m'My Data Sources'[0m                            [34;42mSsiAuthenticate[0m
+ [34;42mDarkest[0m                                   [01;36m'My Music'[0m                                  [34;42m'Star Wars - The Old Republic'[0m
+[34;42m'Diablo III'[0m                               [01;36m'My Pictures'[0m                               [34;42m'StarCraft II'[0m
+ [34;42mDownloads[0m                                 [01;36m'My Videos'[0m                                  [34;42mStarcraft[0m
+[01;32m'Downloads - Shortcut.lnk'[0m                 [34;42m'My games'[0m                                   [34;42mTecmoKoei[0m
+[34;42m'Dungeon of the Endless'[0m                    [34;42mOverwatch[0m                                  [34;42m'The Lord of the Rings Online'[0m
+[34;42m'Electronic Arts'[0m                          [34;42m'Paradox Interactive'[0m                       [34;42m'Virtual Machines'[0m
+[34;42m'Electrontic Arts'[0m                         [34;42m'Path of Building'[0m                          [34;42m'Visual Studio 2017'[0m
+[34;42m'Endless Legend'[0m                            [34;42mPhone[0m                                      [34;42m'Warcraft III'[0m
+[34;42m'Endless Space'[0m                             [34;42mPictures[0m                                   [34;42m'WinX YouTube Downloader'[0m
+[34;42m'Endless Space 2'[0m                           [34;42mPoE-TradeMacro[0m                              [34;42mWindowsPowerShell[0m
+[34;42m'Euro Truck Simulator 2'[0m                   [01;32m'Rav 4 Registration Replacement'[0m             [34;42mZoom[0m
+ [01;32mGenshinImpact_install_20200911204035.exe[0m  [34;42m'Renowned Explorers International Society'[0m   [01;32mdesktop.ini[0m
+[01;32m'Georgia Bucket List.jpg'[0m                   [01;32mRepublic_Commando_Fix.8.zip[0m                 [01;32mtranslog.20201025032835.log[0m
+[34;42m'HeroBlade Logs'[0m                           [34;42m'Robot Entertainment'[0m
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ ls /mnt/c/Users/aceco/Documents/School
+[0m[34;42m'17 Fall'[0m
+[34;42m'18 .Summer'[0m
+[34;42m'18 Fall'[0m
+[34;42m'19 .Spring'[0m
+[34;42m'19 .Summer'[0m
+[34;42m'19 Fall'[0m
+[34;42m'20 .Spring'[0m
+[34;42m'20 .Summer'[0m
+[34;42m'20 Fall'[0m
+[34;42m'21 .Spring'[0m
+[34;42m'21 Fall'[0m
+[01;32m'ASU10 WSL Balance Plan.docx'[0m
+[01;32m'Adobe CC.png'[0m
+ [01;32mAdvising.txt[0m
+ [34;42mCerts[0m
+[01;32m'Dean List Fall 2019.pdf'[0m
+[01;32m'Dean List Spring 2019.pdf'[0m
+[01;32m'Dean List Spring 2020.pdf'[0m
+[34;42m'Extra Books'[0m
+[01;32m'FSE 394 10 Year Plan - Justin Sulser.docx'[0m
+ [01;32mIFT402_Syllabus_SPRING_Walsh_20200112.pdf[0m
+[01;32m'Resume Idea.jpg'[0m
+ [01;32mRick_Graziani_-_IPv6_Fundamentals__A_Straightforward_Approach_to_Understanding_IPv6_2017_Cisco_Press.pdf[0m
+ [01;32mSchool.txt[0m
+[01;32m'Walker College Essay.docx'[0m
+ [01;32mimage0.png[0m
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ ls /mnt/c/Users/aceco/Documents/School/21 Fall
+ls: cannot access '/mnt/c/Users/aceco/Documents/School/21': No such file or directory
+ls: cannot access 'Fall': No such file or directory
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ ls /mnt/c/Users/aceco/Documents/School/21 Fall[1PFall_Fall
+ls: cannot access '/mnt/c/Users/aceco/Documents/School/21_Fall': No such file or directory
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ ls /mnt/c/Users/aceco/Documents/School/21_Fall[1PFall"21Fall[C[C Fall[C[C[C[C"
+[0m[34;42m'IFT 320'[0m  [34;42m'IFT 402'[0m  [34;42m'IFT 458'[0m  [34;42m'PUP 465'[0m
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ ls /mnt/c/Users/aceco/Documents/School/"21 Fall"/"IFT 458"/W[K"Week 5"/japi.py[1P[1P[1@c[1@p[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C japi.py
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ ;ls[K[K[Kls
+[0m[01;32mjapi.py[0m
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ lscp /mnt/c/Users/aceco/Documents/School/"21 Fall"/"IFT 458"/"Week 5"/japi.py japi.py[K[Kout[1P japi.out[1P japi.outo japi.outu japi.outt japi.out [A]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ ls
+[0m[01;32mjapi.out[0m  [01;32mjapi.py[0m
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git add .
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git commit -m "Test commit"
+[master (root-commit) ef148da] Test commit
+ 2 files changed, 319 insertions(+)
+ create mode 100755 japi.out
+ create mode 100755 japi.py
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ vim japi.py
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;85r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[85;1H"japi.py" [dos] 45L, 1221C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H[34m#!C:/Python39/python[m
+
+[35mimport[m json
+[35mimport[m requests
+
+
+key = [31m'YKMR1NX75O2HJ165'[m
+
+[38;5;130mdef[m [36mgetStockData[m(stock):[11;5Hstock = stock.upper()
+    url = (f[31m'https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol={stock}&interval=5min&apikey={key}'[m)
+    call = requests.get(url).text[15;5H[34m# Prints JSON format response string, a la Project Deliverable example[m
+    [36mprint[m([31m"[m[35m\n[m[31mJSON response string"[m)
+    [36mprint[m(call)[19;5H[34m# Per PD, the following should technically be a separate method or within main. But it makes more sense this way.[m
+    quote = json.loads(call)[22;5H[34m# "Converts" JSON to Python dictionary, though nested[m
+    price = (quote[[31m'Global Quote'[m][[31m'05. price'[m])
+    [36mprint[m(f[31m"The current price of {stock} is: ${price}[m[35m\n[m[31m"[m)[27;5H[38;5;130mreturn[m call
+
+
+[38;5;130mdef[m [36mmain[m():[32;5Hsymbol = [31m""[m[34;5H[38;5;130mwith[m [36mopen[m([31m'japi.out'[m, [31m'a'[m) [38;5;130mas[m f:[35;9H[38;5;130mwhile[m(symbol.upper() != [31m"QUIT"[m):[36;13H[38;5;130mif[m(symbol != [31m""[m):[37;17Hs = getStockData(symbol)[38;17H[34m#Not sure if you wanted whole quote or just price quote[m[39;17Hf.write(s)[40;13Hsymbol = [36minput[m([31m"What stock would you like to check? (Quit to exit): "[m)[41;9Hf.close()[45;1Hmain()
+[94m~                                                                                                                       [47;1H~                                                                                                                       [48;1H~                                                                                                                       [49;1H~                                                                                                                       [50;1H~                                                                                                                       [51;1H~                                                                                                                       [52;1H~                                                                                                                       [53;1H~                                                                                                                       [54;1H~                                                                                                                       [55;1H~                                                                                                                       [56;1H~                                                                                                                       [57;1H~                                                                                                                       [58;1H~                                                                                                                       [59;1H~                                                                                                                       [60;1H~                                                                                                                       [61;1H~                                                                                                                       [62;1H~                                                                                                                       [63;1H~                                                                                                                       [64;1H~                                                                                                                       [65;1H~                                                                                                                       [66;1H~                                                                                                                       [67;1H~                                                                                                                       [68;1H~                                                                                                                       [69;1H~                                                                                                                       [70;1H~                                                                                                                       [71;1H~                                                                                                                       [72;1H~                                                                                                                       [73;1H~                                                                                                                       [74;1H~                                                                                                                       [75;1H~                                                                                                                       [76;1H~                                                                                                                       [77;1H~                                                                                                                       [78;1H~                                                                                                                       [79;1H~                                                                                                                       [80;1H~                                                                                                                       [81;1H~                                                                                                                       [82;1H~                                                                                                                       [83;1H~                                                                                                                       [84;1H~                                                                                                                       [m[85;103H1,1[11CAll[1;1H[?25h[?25l[85;93H~@k[1;1H[85;93H   [2;1H[85;103H2,0-1[2;1H[?25h[?25l[85;93H~@k[2;1H[85;93H   [3;1H[85;103H3,1  [3;1H[?25h[?25l[85;93H~@k[3;1H[85;93H   [4;1H[85;103H4[4;1H[?25h[?25l[85;93H~@k[4;1H[85;93H   [5;1H[85;103H5,0-1[5;1H[?25h[?25l[85;93H~@k[5;1H[85;93H   [6;1H[85;103H6[6;1H[?25h[?25l[85;93H~@k[6;1H[85;93H   [7;1H[85;103H7,1  [7;1H[?25h[?25l[85;93H~@k[7;1H[85;93H   [8;1H[85;103H8,0-1[8;1H[?25h[?25l[85;93H~@k[8;1H[85;93H   [9;1H[85;103H9,1  [9;1H[?25h[?25l[85;93H~@k[9;1H[85;93H   [10;1H[85;103H10,1[10;1H[?25h[?25l[85;93H~@k[10;1H[85;93H   [11;1H[85;104H1[11;1H[?25h[?25l[85;93H~@k[11;1H[85;93H   [12;1H[85;104H2[12;1H[?25h[?25l[85;93H~@k[12;1H[85;93H   [13;1H[85;104H3[13;1H[?25h[?25l[85;93H~@k[13;1H[85;93H   [14;1H[85;104H4[14;1H[?25h[?25l[85;93H~@k[14;1H[85;93H   [15;1H[85;104H5[15;1H[?25h[?25l[85;93H~@k[15;1H[85;93H   [16;1H[85;104H6[16;1H[?25h[?25l[85;93H~@k[16;1H[85;93H   [17;1H[85;104H7[17;1H[?25h[?25l[85;93H~@k[17;1H[85;93H   [18;1H[85;104H8[18;1H[?25h[?25l[85;93H~@k[18;1H[85;93H   [19;1H[85;104H9[19;1H[?25h[?25l[85;93H~@k[19;1H[85;93H   [20;1H[85;103H20[20;1H[?25h[?25l[85;93H~@k[20;1H[85;93H   [21;1H[85;104H1[21;1H[?25h[?25l[85;93H~@k[21;1H[85;93H   [22;1H[85;104H2[22;1H[?25h[?25l[85;93H~@k[22;1H[85;93H   [23;1H[85;104H3[23;1H[?25h[?25l[85;93H~@k[23;1H[85;93H   [24;1H[85;104H4[24;1H[?25h[?25l[85;93H~@k[24;1H[85;93H   [25;1H[85;104H5[25;1H[?25h[?25l[85;93H~@k[25;1H[85;93H   [26;1H[85;104H6,0-1[26;1H[?25h[?25l[85;93H~@k[26;1H[85;93H   [27;1H[85;104H7,1  [27;1H[?25h[?25l[85;93H~@k[27;1H[85;93H   [28;1H[85;104H8,0-1[28;1H[?25h[?25l[85;93H~@k[28;1H[85;93H   [29;1H[85;104H9[29;1H[?25h[?25l[85;93H~@k[29;1H[85;93H   [30;1H[85;103H30,1  [30;1H[?25h[?25l[85;93H~@k[30;1H[85;93H   [31;1H[85;104H1[31;1H[?25h[?25l[85;93H~@k[31;1H[85;93H   [32;1H[85;104H2[32;1H[?25h[?25l[85;93H~@k[32;1H[85;93H   [33;1H[85;104H3[33;1H[?25h[?25l[85;93H~@k[33;1H[85;93H   [34;1H[85;104H4[34;1H[?25h[?25l[85;93H~@k[34;1H[85;93H   [35;1H[85;104H5[35;1H[?25h[?25l[85;93H~@k[35;1H[85;93H   [36;1H[85;104H6[36;1H[?25h[?25l[85;93H~@k[36;1H[85;93H   [37;1H[85;104H7[37;1H[?25h[?25l[85;93H~@k[37;1H[85;93H   [38;1H[85;104H8[38;1H[?25h[?25l[85;93H~@k[38;1H[85;93H   [39;1H[85;104H9[39;1H[?25h[?25l[85;93H~@k[39;1H[85;93H   [40;1H[85;103H40[40;1H[?25h[?25l[85;93H~@k[40;1H[85;93H   [41;1H[85;104H1[41;1H[?25h[?25l[85;93H~@k[41;1H[85;93H   [42;1H[85;104H2[42;1H[?25h[?25l[85;93H~@k[42;1H[85;93H   [43;1H[85;104H3[43;1H[?25h[?25l[85;93H~@k[43;1H[85;93H   [44;1H[85;104H4[44;1H[?25h[?25l[85;93H~@k[44;1H[85;93H   [45;1H[85;104H5[45;1H[?25h[?25l[85;93H~@k[45;1H[85;93H   [45;1H[?25h[?25l[85;93H~@@[45;1H[85;93H   [45;6H[106m()[m[85;106H6[45;6H[?25h[?25l[85;93H~@k[45;6H[85;93H   [45;6H[?25h[?25l[85;93H~@k[45;6H[85;93H   [45;5H[85;106H5[45;5H[?25h[?25l[85;93H~@k[45;5H[85;93H   [45;4Hn()[85;106H4[45;4H[?25h[?25l[85;93H~@k[45;4H[85;93H   [45;5H[106m()[m[85;106H5[45;5H[?25h[?25l[85;93H~@k[45;5H[85;93H   [45;6H[85;106H6[45;6H[?25h[?25l[85;93Hi[45;6H[85;93H [45;6H[85;1H[1m-- INSERT --[m[85;13H[K[85;103H45,6[10CAll[45;6H[?25h[?25l[85;106H7[45;7H[?25h[?25l[46;1H[K[45;5H()[85;104H6,1[46;1H[?25h[?25lp[85;106H2[46;2H[?25h[?25lr[85;106H3[46;3H[?25h[?25li[85;106H4[46;4H[?25h[?25ln[85;106H5[46;5H[?25h[?25l[36mprint[m[85;106H6[46;6H[?25h[?25l([85;106H7[46;7H[?25h[?25l[31m"[m[85;106H8[46;8H[?25h[?25l[31mS[m[85;106H9[46;9H[?25h[?25l[31mt[m[85;106H10[46;10H[?25h[?25l[31mo[m[85;107H1[46;11H[?25h[?25l[31mc[m[85;107H2[46;12H[?25h[?25l[31mk[m[85;107H3[46;13H[?25h[?25l[31m [m[85;107H4[46;14H[?25h[?25l[31mQ[m[85;107H5[46;15H[?25h[?25l[31mu[m[85;107H6[46;16H[?25h[?25l[31mo[m[85;107H7[46;17H[?25h[?25l[31mt[m[85;107H8[46;18H[?25h[?25l[31me[m[85;107H9[46;19H[?25h[?25l[31ms[m[85;106H20[46;20H[?25h[?25l[31m [m[85;107H1[46;21H[?25h[?25l[31mr[m[85;107H2[46;22H[?25h[?25l[31me[m[85;107H3[46;23H[?25h[?25l[31mt[m[85;107H4[46;24H[?25h[?25l[31mr[m[85;107H5[46;25H[?25h[?25l[31mi[m[85;107H6[46;26H[?25h[?25l[31me[m[85;107H7[46;27H[?25h[?25l[31mv[m[85;107H8[46;28H[?25h[?25l[31me[m[85;107H9[46;29H[?25h[?25l[31md[m[85;106H30[46;30H[?25h[?25l[31m [m[85;107H1[46;31H[?25h[?25l[31ms[m[85;107H2[46;32H[?25h[?25l[31mu[m[85;107H3[46;33H[?25h[?25l[31mc[m[85;107H4[46;34H[?25h[?25l[31mc[m[85;107H5[46;35H[?25h[?25l[31me[m[85;107H6[46;36H[?25h[?25l[31ms[m[85;107H7[46;37H[?25h[?25l[31mf[m[85;107H8[46;38H[?25h[?25l[31mu[m[85;107H9[46;39H[?25h[?25l[31ml[m[85;106H40[46;40H[?25h[?25l[31ml[m[85;107H1[46;41H[?25h[?25l[31my[m[85;107H2[46;42H[?25h[?25l[31m![m[85;107H3[46;43H[?25h[?25l[31m"[m[85;107H4[46;44H[?25h[?25l)[46;6H[106m([37C)[m[85;107H5[46;45H[?25h[85;1H[K[46;44H[?25l[85;93H^[[46;44H[85;93H  [46;45H[85;103H46,44[9CAll[46;44H[?25h[?25l[85;93H![46;44H[?25h[?25l[85;94Hw[46;44H[85;93H  [46;44H[85;103H[K[85;1H:[?2004h.![?25hq[?25l[85;4H[K[85;4H[?25hwq[?25l[?25h[?2004l[?2004h
+shell returned 127
+[29m[m
+[32mPress ENTER or type command to continue[27m[23m[29m[m[H[2J[?25l[1;1H[34m#!C:/Python39/python[m
+
+[35mimport[m json
+[35mimport[m requests
+
+
+key = [31m'YKMR1NX75O2HJ165'[m
+
+[38;5;130mdef[m [36mgetStockData[m(stock):[11;5Hstock = stock.upper()
+    url = (f[31m'https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol={stock}&interval=5min&apikey={key}'[m)
+    call = requests.get(url).text[15;5H[34m# Prints JSON format response string, a la Project Deliverable example[m
+    [36mprint[m([31m"[m[35m\n[m[31mJSON response string"[m)
+    [36mprint[m(call)[19;5H[34m# Per PD, the following should technically be a separate method or within main. But it makes more sense this way.[m
+    quote = json.loads(call)[22;5H[34m# "Converts" JSON to Python dictionary, though nested[m
+    price = (quote[[31m'Global Quote'[m][[31m'05. price'[m])
+    [36mprint[m(f[31m"The current price of {stock} is: ${price}[m[35m\n[m[31m"[m)[27;5H[38;5;130mreturn[m call
+
+
+[38;5;130mdef[m [36mmain[m():[32;5Hsymbol = [31m""[m[34;5H[38;5;130mwith[m [36mopen[m([31m'japi.out'[m, [31m'a'[m) [38;5;130mas[m f:[35;9H[38;5;130mwhile[m(symbol.upper() != [31m"QUIT"[m):[36;13H[38;5;130mif[m(symbol != [31m""[m):[37;17Hs = getStockData(symbol)[38;17H[34m#Not sure if you wanted whole quote or just price quote[m[39;17Hf.write(s)[40;13Hsymbol = [36minput[m([31m"What stock would you like to check? (Quit to exit): "[m)[41;9Hf.close()[45;1Hmain()
+/[36mbin[m/bash: wq: command [38;5;130mnot[m found
+[94m~                                                                                                                       [48;1H~                                                                                                                       [49;1H~                                                                                                                       [50;1H~                                                                                                                       [51;1H~                                                                                                                       [52;1H~                                                                                                                       [53;1H~                                                                                                                       [54;1H~                                                                                                                       [55;1H~                                                                                                                       [56;1H~                                                                                                                       [57;1H~                                                                                                                       [58;1H~                                                                                                                       [59;1H~                                                                                                                       [60;1H~                                                                                                                       [61;1H~                                                                                                                       [62;1H~                                                                                                                       [63;1H~                                                                                                                       [64;1H~                                                                                                                       [65;1H~                                                                                                                       [66;1H~                                                                                                                       [67;1H~                                                                                                                       [68;1H~                                                                                                                       [69;1H~                                                                                                                       [70;1H~                                                                                                                       [71;1H~                                                                                                                       [72;1H~                                                                                                                       [73;1H~                                                                                                                       [74;1H~                                                                                                                       [75;1H~                                                                                                                       [76;1H~                                                                                                                       [77;1H~                                                                                                                       [78;1H~                                                                                                                       [79;1H~                                                                                                                       [80;1H~                                                                                                                       [81;1H~                                                                                                                       [82;1H~                                                                                                                       [83;1H~                                                                                                                       [84;1H~                                                                                                                       [m[85;103H46,1[10CAll[46;1H[?25h[?25l[85;93H![46;1H[?25h[?25l[85;94H~@k[46;1H[85;93H    [45;6H[85;103H[K[85;1H:[?2004h.![?25h[?25l[85;3H[K[85;3H[?25h[?25l[85;2H[K[85;2H[?25h [?25l[45;5H[106m()[m[85;103H45,6[10CAll[45;6H[?25h[?25l[85;93H~@k[45;6H[85;93H   [45;5H[85;106H5[45;5H[?25h[?25l[85;93H~@k[45;5H[85;93H   [45;4Hn()[85;106H4[45;4H[?25h[?25l[85;93H~@k[45;4H[85;93H   [45;3H[85;106H3[45;3H[?25h[?25l[85;93H~@k[45;3H[85;93H   [45;2H[85;106H2[45;2H[?25h[?25l[85;93H~@k[45;2H[85;93H   [45;1H[85;106H1[45;1H[?25h[?25l[85;93H~@k[45;1H[85;93H   [44;4H[85;104H4,4[44;4H[?25h[?25l[85;93H~@k[44;4H[85;93H   [44;3H[85;106H3[44;3H[?25h[?25l[85;93H~@k[44;3H[85;93H   [44;2H[85;106H2[44;2H[?25h[?25l[85;93H~@k[44;2H[85;93H   [44;1H[85;106H1[44;1H[?25h[?25l[85;93H~@k[44;1H[85;93H   [43;8H[85;104H3,8[43;8H[?25h[?25l[85;93H~@k[43;8H[85;93H   [43;7H[85;106H7[43;7H[?25h[?25l[85;93H~@k[43;7H[85;93H   [43;6H[85;106H6[43;6H[?25h[?25l[85;93H~@k[43;6H[85;93H   [43;5H[85;106H5[43;5H[?25h[?25l[85;93H~@k[43;5H[85;93H   [44;4H[85;104H4,4[44;4H[?25h[?25l[85;93H~@k[44;4H[85;93H   [45;5H[106m()[m[85;104H5,5[45;5H[?25h[?25l[85;93H~@k[45;5H[85;93H   [46;5H[45;5H()[85;104H6[46;5H[?25h[?25l[85;93H~@k[46;5H[85;93H   [46;5H[?25h[?25l[85;93H~@k[46;5H[85;93H   [46;1H[85;106H1[46;1H[?25h[?25l[85;93Hi[46;1H[85;93H [46;1H[85;1H[1m-- INSERT --[m[85;103H[K[85;103H46,1[10CAll[46;1H[?25h[?25l[36mbin[m/bash: wq: command [38;5;130mnot[m found[46;32H[K[46;1H[?25h[?25l[38;5;130min[m/bash: wq: command [38;5;130mnot[m found[46;31H[K[46;1H[?25h[?25ln/bash: wq: command [38;5;130mnot[m found[46;30H[K[46;1H[?25h[?25l/bash: wq: command [38;5;130mnot[m found[46;29H[K[46;1H[?25h[?25lbash: wq: command [38;5;130mnot[m found[46;28H[K[46;1H[?25h[?25lash: wq: command [38;5;130mnot[m found[46;27H[K[46;1H[?25h[?25lsh: wq: command [38;5;130mnot[m found[46;26H[K[46;1H[?25h[?25lh: wq: command [38;5;130mnot[m found[46;25H[K[46;1H[?25h[?25l: wq: command [38;5;130mnot[m found[46;24H[K[46;1H[?25h[?25l wq: command [38;5;130mnot[m found[46;23H[K[46;1H[?25h[?25lwq: command [38;5;130mnot[m found[46;22H[K[46;1H[?25h[?25lq: command [38;5;130mnot[m found[46;21H[K[46;1H[?25h[?25l: command [38;5;130mnot[m found[46;20H[K[46;1H[?25h[?25l command [38;5;130mnot[m found[46;19H[K[46;1H[?25h[?25lcommand [38;5;130mnot[m found[46;18H[K[46;1H[?25h[?25lommand [38;5;130mnot[m found[46;17H[K[46;1H[?25h[?25lmmand [38;5;130mnot[m found[46;16H[K[46;1H[?25h[?25lmand [38;5;130mnot[m found[46;15H[K[46;1H[?25h[?25l[38;5;130mand[m [38;5;130mnot[m found[46;14H[K[46;1H[?25h[?25lnd [38;5;130mnot[m found[46;13H[K[46;1H[?25h[?25ld [38;5;130mnot[m found[46;12H[K[46;1H[?25h[?25l [38;5;130mnot[m found[46;11H[K[46;1H[?25h[?25l[38;5;130mnot[m found[46;10H[K[46;1H[?25h[?25lot found[46;9H[K[46;1H[?25h[?25lt found[46;8H[K[46;1H[?25h[?25l found[46;7H[K[46;1H[?25h[?25lfound[46;6H[K[46;1H[?25h[?25lound[46;5H[K[46;1H[?25h[?25lund[46;4H[K[46;1H[?25h[?25lnd[46;3H[K[46;1H[?25h[?25ld[46;2H[K[46;1H[?25h[?25l[46;1H[K[46;1H[?25h[?25lp[85;106H2[46;2H[?25h[?25lr[85;106H3[46;3H[?25h[?25li[85;106H4[46;4H[?25h[?25ln[85;106H5[46;5H[?25h[?25l[36mprint[m[85;106H6[46;6H[?25h[?25l([85;106H7[46;7H[?25h[?25l[31m"[m[85;106H8[46;8H[?25h[?25l[31mS[m[85;106H9[46;9H[?25h[?25l[31mt[m[85;106H10[46;10H[?25h[?25l[31mo[m[85;107H1[46;11H[?25h[?25l[31mc[m[85;107H2[46;12H[?25h[?25l[31mk[m[85;107H3[46;13H[?25h[?25l[31m [m[85;107H4[46;14H[?25h[?25l[31mQ[m[85;107H5[46;15H[?25h[?25l[31mu[m[85;107H6[46;16H[?25h[?25l[31mo[m[85;107H7[46;17H[?25h[?25l[31mt[m[85;107H8[46;18H[?25h[?25l[31me[m[85;107H9[46;19H[?25h[?25l[31ms[m[85;106H20[46;20H[?25h[?25l[31m [m[85;107H1[46;21H[?25h[?25l[31mr[m[85;107H2[46;22H[?25h[?25l[31me[m[85;107H3[46;23H[?25h[?25l[31mt[m[85;107H4[46;24H[?25h[?25l[31mr[m[85;107H5[46;25H[?25h[?25l[31mi[m[85;107H6[46;26H[?25h[?25l[31me[m[85;107H7[46;27H[?25h[?25l[31mv[m[85;107H8[46;28H[?25h[?25l[31me[m[85;107H9[46;29H[?25h[?25l[31md[m[85;106H30[46;30H[?25h[?25l[31m [m[85;107H1[46;31H[?25h[?25l[31ms[m[85;107H2[46;32H[?25h[?25l[31mu[m[85;107H3[46;33H[?25h[?25l[31mc[m[85;107H4[46;34H[?25h[?25l[31mc[m[85;107H5[46;35H[?25h[?25l[31me[m[85;107H6[46;36H[?25h[?25l[31ms[m[85;107H7[46;37H[?25h[?25l[31ms[m[85;107H8[46;38H[?25h[?25l[31mf[m[85;107H9[46;39H[?25h[?25l[31mu[m[85;106H40[46;40H[?25h[?25l[31ml[m[85;107H1[46;41H[?25h[?25l[31ml[m[85;107H2[46;42H[?25h[?25l[31my[m[85;107H3[46;43H[?25h[?25l[31m![m[85;107H4[46;44H[?25h[?25l[31m"[m[85;107H5[46;45H[?25h[?25l)[46;6H[106m([38C)[m[85;107H6[46;46H[?25h[?25l[47;1H[K[46;6H([38C)[85;104H7,1 [47;1H[?25h[85;1H[K[47;1H[?25l[85;93H^[[47;1H[85;93H  [47;1H[85;103H47,0-1[8CAll[47;1H[?25h[?25l[85;93H:[47;1H[85;93H[K[85;1H:[?2004h[?25hwq[?25l[?2004l"japi.py" [dos] 47L, 1270C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git commit -am "Updated japi.py"
+[master ade7687] Updated japi.py
+ 1 file changed, 2 insertions(+)
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git status
+On branch master
+nothing to commit, working tree clean
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git -s
+unknown option: -s
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git status -s
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ echo "hello there" > hello.txt
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mhello.txt[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git status -s
+[31m??[m hello.txt
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git add .
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   hello.txt[m
+
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git status -s
+[32mA[m  hello.txt
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ echo "wE AR[K[K[K[K[KWe are testing git status" >> hello.txt
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git stta[K[Katus
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   hello.txt[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   hello.txt[m
+
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ ls
+hello.txt  [0m[01;32mjapi.out[0m  [01;32mjapi.py[0m
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ ls -a
+[0m[01;34m.[0m  [01;34m..[0m  [01;34m.git[0m  hello.txt  [01;32mjapi.out[0m  [01;32mjapi.py[0m
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git diff
+[?1h=[1mdiff --git a/hello.txt b/hello.txt[m[m
+[1mindex c7c7da3..0fffb77 100644[m[m
+[1m--- a/hello.txt[m[m
+[1m+++ b/hello.txt[m[m
+[36m@@ -1 +1,2 @@[m[m
+ hello there[m[m
+[32m+[m[32mWe are testing git status[m[m
+[K[?1l>]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git commit -m "no comment"
+[master 04e28be] no comment
+ 1 file changed, 1 insertion(+)
+ create mode 100644 hello.txt
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   hello.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git add .
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   hello.txt[m
+
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git log
+[?1h=[33mcommit 04e28be18de1b78ba08c42f1c41173fe0229daf4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m[m
+Author: Justin Sulser <jsulser@asu.edu>[m
+Date:   Sun Nov 28 21:42:32 2021 -0500[m
+[m
+    no comment[m
+[m
+[33mcommit ade7687e0a91f9339e1d58ffeace6d515cf79cf2[m[m
+Author: Justin Sulser <jsulser@asu.edu>[m
+Date:   Sun Nov 28 21:34:28 2021 -0500[m
+[m
+    Updated japi.py[m
+[m
+[33mcommit ef148da61a8574c303ba2b938d39fe466b128896[m[m
+Author: Justin Sulser <jsulser@asu.edu>[m
+Date:   Sun Nov 28 21:32:20 2021 -0500[m
+[m
+    Test commit[m
+[K[?1l>]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git status -s
+[32mM[m  hello.txt
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git log -oneline
+fatal: unrecognized argument: -oneline
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git log -oneline-oneline
+[?1h=[33m04e28be[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m no comment[m
+[33made7687[m Updated japi.py[m
+[33mef148da[m Test commit[m
+[K[?1l>]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git branch
+[?1h=* [32mmaster[m[m
+[K[?1l>]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ echo "master version" >> hello.te[Kxt
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git commit -am "master version"
+[master 86358e9] master version
+ 1 file changed, 2 insertions(+)
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git branch feature
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git branch
+[?1h=  feature[m[m
+* [32mmaster[m[m
+[K[?1l>]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git checkout feature
+Switched to branch 'feature'
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git branch
+[?1h=* [32mfeature[m[m
+  master[m[m
+[K[?1l>]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ echo "new file" > hello_feature
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ echo feau[K[K[K[K"feature version" >> hello.txt
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git add .
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git commit -m "feature version"
+[feature cb204d2] feature version
+ 2 files changed, 2 insertions(+)
+ create mode 100644 hello_feature
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git checkout[K[K[K[K[K[K[K[K[K[K[K[Kgit status
+On branch feature
+nothing to commit, working tree clean
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git checkout master
+Switched to branch 'master'
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git branch
+[?1h=  feature[m[m
+* [32mmaster[m[m
+[K[?1l>]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ echo "Initial content" > merge.txt
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git add .
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git commit -m "adding new file on master"
+[master 1104445] adding new file on master
+ 1 file changed, 1 insertion(+)
+ create mode 100644 merge.txt
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git brna[K[Kanch newbranch
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ echo "Update on master" > merge.txt
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git add .
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git commit -m "update on master"
+[master 90e0a92] update on master
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git checkout newbranch
+Switched to branch 'newbranch'
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ echo "Update on newbranch" > merge.txt
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git commit -am "update on newbranch"
+[newbranch 740fcae] update on newbranch
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git checkout master
+Switched to branch 'master'
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git merc[Kge newbranch
+Auto-merging merge.txt
+CONFLICT (content): Merge conflict in merge.txt
+Automatic merge failed; fix conflicts and then commit the result.
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git status
+On branch master
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+  (use "git merge --abort" to abort the merge)
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+	[31mboth modified:   merge.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ cat merge.txt
+<<<<<<< HEAD
+Update on master
+=======
+Update on newbranch
+>>>>>>> newbranch
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ echo "merged version" > merge.txt
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git add .
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git commit -m "Fixed conflicts"
+[master c79e0c4] Fixed conflicts
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git status
+On branch master
+nothing to commit, working tree clean
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git branch -d newbranch
+Deleted branch newbranch (was 740fcae).
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ echo "file to delete" > to_delete.txt
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git add.[K .
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git commit -,m[K[Km "yet another lab file"
+[master 91e3d27] yet another lab file
+ 1 file changed, 1 insertion(+)
+ create mode 100644 to_delete.txt
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git rm to_+[Kdelete.txt
+rm 'to_delete.txt'
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mdeleted:    to_delete.txt[m
+
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ ls
+hello.txt  [0m[01;32mjapi.out[0m  [01;32mjapi.py[0m  merge.txt
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ ls 0a[K[K-0a[K[Ka
+[0m[01;34m.[0m  [01;34m..[0m  [01;34m.git[0m  hello.txt  [01;32mjapi.out[0m  [01;32mjapi.py[0m  merge.txt
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git reset --hard HEAR[KD
+HEAD is now at 91e3d27 yet another lab file
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git status
+On branch master
+nothing to commit, working tree clean
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ ls
+hello.txt  [0m[01;32mjapi.out[0m  [01;32mjapi.py[0m  merge.txt  to_delete.txt
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git rm to-[K_delete.txt
+rm 'to_delete.txt'
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git status -0[K-sb 
+error: unknown option `sb'
+usage: git status [<options>] [--] <pathspec>...
+
+    -v, --verbose         be verbose
+    -s, --short           show status concisely
+    -b, --branch          show branch information
+    --show-stash          show stash information
+    --ahead-behind        compute full ahead/behind values
+    --porcelain[=<version>]
+                          machine-readable output
+    --long                show status in long format (default)
+    -z, --null            terminate entries with NUL
+    -u, --untracked-files[=<mode>]
+                          show untracked files, optional modes: all, normal, no. (Default: all)
+    --ignored[=<mode>]    show ignored files, optional modes: traditional, matching, no. (Default: traditional)
+    --ignore-submodules[=<when>]
+                          ignore changes to submodules, optional when: all, dirty, untracked. (Default: all)
+    --column[=<style>]    list untracked files in columns
+    --no-renames          do not detect renames
+    -M, --find-renames[=<n>]
+                          detect renames, optionally set similarity index
+
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git status --sb [1P
+## [32mmaster[m
+[32mD[m  to_delete.txt
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git commit -m "<file deletion>
+> ^C
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ git commit -m "<file deletion>"
+[master c4a2a91] <file deletion>
+ 1 file changed, 1 deletion(-)
+ delete mode 100644 to_delete.txt
+]0;jsulser@DESKTOP-AKNI37H: ~/japigit[01;32mjsulser@DESKTOP-AKNI37H[00m:[01;34m~/japigit[00m$ exit
+exit
+
+Script done on 2021-11-28 21:53:20-05:00 [COMMAND_EXIT_CODE="0"]
